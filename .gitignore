@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nb-configuration.xml
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE (por si alguien lo abre con otro editor)
+.idea/
+*.iml
+.vscode/
